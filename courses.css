@@ -1,0 +1,83 @@
+body{
+background:Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%)
+
+,Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+h1{
+display: flex;
+justify-content: center
+}
+a{
+color: aliceblue
+}
+#e123{
+    width: 1250px;
+    height: 600px;
+    padding: 0px;
+    margin: 0px;
+    }
+    #d123{
+    width: 1250px;
+    height: 600px;
+    padding: 0px;
+    margin: 0px;
+    }
+    #f123{
+    width: 1250px;
+    height: 600px;
+    padding: 0px;
+    margin: 0px;
+    }
+    #g123{
+    height: 100px;
+    width: 150px;
+    position: relative;
+    float: left;
+    border: 50px;
+    }
+    .gg{
+    position: relative;
+    float: center;
+    font-size: 45px;
+    margin-left: 45px;
+    margin-right: 45px;
+    text-align: center;
+    }
+    .gg{
+    display: inline;
+    }
+    #h123{
+    display: inline;
+    }
+    div a{
+    display: inline;
+    } 
+    .jj:hover{
+    color: red;
+    }
+    .jj{
+    font-size: 1.5em;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',"Geneva", Verdana, sans-serif;
+    }
+    .navbar{
+    display: flex;
+    }
+    .nav{
+    display: flex;
+    align-items: center;
+    }
+    #y1{
+     margin-right: 50px;    
+     margin-left: 350px;
+    }
+    #y2{
+     margin-left: 50px;
+     margin-right: 50px;
+    }
+    #y3{
+     margin-left: 50px
+    }
+    
